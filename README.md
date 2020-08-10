@@ -8,8 +8,7 @@ SOTracker is a software based on python, which can be run on Windows, MacOS and 
 
 The procedure of the program can be divided into three steps, which is shown in Fig.1. First, user needs to set up several parameters, including the file path, length of object and the information they want to display. Second, user needs to select ROI (region of interest) of the tracking object by drawing a rectangle using the mouse (the target should be framed accurately). After that, press the space bar, and the real time tracking information will be showed on window. During this process, the program can be pause at any time and reselect the tracking target. With the manual intervention, the tracking can be more accurate. At last, the tracking information (target position, motion direction, speed and etc.) will be saved as an excel file, and the trajectory and real-time information will be saved as a video file.
 
-<p style="width:100%, text-align:center"><a href="url"><img src="https://github.com/Verzin/SOTracker/Program_processing.png" width="640"></a></p>
-
+<p style="width:100%, text-align:center"><a href="url"><img src="https://raw.githubusercontent.com/Verzin/SOTracker/Program_processing.png" width="640"></a></p>
 ## Installation
 
 #### Clone the GIT repository.  
