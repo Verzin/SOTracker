@@ -13,7 +13,7 @@ The procedure of the program can be divided into three steps, which is shown in 
 
 #### Clone the GIT repository.  
 ```bash
-git clone https://github.com/alanlukezic/d3s.git .
+git clone https://github.com/Verzin/SOTracker.git.
 ```
 
 #### Install dependencies
